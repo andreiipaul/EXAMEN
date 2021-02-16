@@ -1,0 +1,33 @@
+h2.criptomonedas {
+color: blue;
+text-align: center;
+}
+
+body.fondo {
+    background-color: coral;
+}
+
+p.bitcoin {
+    text-align: right;
+    color: blue;
+    position: relative;
+    right: 150px;
+}
+
+p.etherum {
+    color: blue;
+    text-align: right ;
+    position: relative;
+    right: 300px;
+}
+
+span.paul{
+    color: red;
+}
+
+p.alineado {
+    text-align: center;
+    background-color: yellow;
+    color: black;
+    
+}
